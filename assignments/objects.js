@@ -25,6 +25,13 @@ const example = {
 
 // Mitzi's name
 
+const mitzi = { 
+  "id": 1, 
+  "name": "Mitzi", 
+  "email": "mmelloy@PushSubscription.edu", 
+  "gender": "F"
+}
+
 // Kennan's ID
 
 // Keven's email
